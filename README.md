@@ -10,7 +10,7 @@ The dataset is based on a survey conducted by Busara Center in Western Kenya. It
 The [dataset folder](./dataset/) contains training data, testing data and the descriptions of each feature of the dataset.
 
 ### Pre-processing
-- Filling NaN values with the mode of given data
+- Filling NaN values with the average of given data
 - Feature selection using Random forest importance technique
 
 ## Models
